@@ -1,0 +1,961 @@
+2022-05-17 23:05:751 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 23:05:976 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 23:05:725 INFO  SignInPage :64 - Verify: AUTHENTICATION
+2022-05-18 00:05:674 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:396 INFO  SignInPage :78 - Enter: 
+2022-05-18 00:05:473 INFO  SignInPage :83 - Enter: 
+2022-05-18 00:05:538 INFO  SignInPage :87 - Click On: Sign in
+2022-05-18 00:05:81 INFO  SignInPage :91 - Verify: There is 1 error
+2022-05-18 00:05:154 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:834 INFO  SignInPage :78 - Enter: 
+2022-05-18 00:05:894 INFO  SignInPage :83 - Enter: 
+2022-05-18 00:05:967 INFO  SignInPage :87 - Click On: Sign in
+2022-05-18 00:05:95 INFO  SignInPage :91 - Verify: There is 1 error
+2022-05-18 00:05:117 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:114 INFO  SignInPage :78 - Enter: 
+2022-05-18 00:05:225 INFO  SignInPage :83 - Enter: 
+2022-05-18 00:05:288 INFO  SignInPage :87 - Click On: Sign in
+2022-05-18 00:05:283 INFO  SignInPage :91 - Verify: There is 1 error
+2022-05-18 00:05:295 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:584 INFO  SignInPage :78 - Enter: 
+2022-05-18 00:05:652 INFO  SignInPage :83 - Enter: 
+2022-05-18 00:05:714 INFO  SignInPage :87 - Click On: Sign in
+2022-05-18 00:05:664 INFO  SignInPage :91 - Verify: There is 1 error
+2022-05-18 00:05:684 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:574 INFO  SignInPage :78 - Enter: 
+2022-05-18 00:05:644 INFO  SignInPage :83 - Enter: 
+2022-05-18 00:05:704 INFO  SignInPage :87 - Click On: Sign in
+2022-05-18 00:05:715 INFO  SignInPage :91 - Verify: There is 1 error
+2022-05-18 00:05:513 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:44 INFO  SignInPage :82 - Enter: 
+2022-05-18 00:05:105 INFO  SignInPage :87 - Enter: 
+2022-05-18 00:05:174 INFO  SignInPage :91 - Click On: Sign in
+2022-05-18 00:05:674 INFO  SignInPage :95 - Verify: There is 1 error
+2022-05-18 00:05:693 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:305 INFO  SignInPage :82 - Enter: 
+2022-05-18 00:05:375 INFO  SignInPage :87 - Enter: 
+2022-05-18 00:05:434 INFO  SignInPage :91 - Click On: Sign in
+2022-05-18 00:05:576 INFO  SignInPage :95 - Verify: There is 1 error
+2022-05-18 00:05:595 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:695 INFO  SignInPage :82 - Enter: 
+2022-05-18 00:05:758 INFO  SignInPage :87 - Enter: 
+2022-05-18 00:05:814 INFO  SignInPage :91 - Click On: Sign in
+2022-05-18 00:05:667 INFO  SignInPage :95 - Verify: There is 1 error
+2022-05-18 00:05:694 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:599 INFO  SignInPage :82 - Enter: 
+2022-05-18 00:05:666 INFO  SignInPage :87 - Enter: 
+2022-05-18 00:05:732 INFO  SignInPage :91 - Click On: Sign in
+2022-05-18 00:05:586 INFO  SignInPage :95 - Verify: There is 1 error
+2022-05-18 00:05:661 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:614 INFO  SignInPage :86 - Enter: 
+2022-05-18 00:05:698 INFO  SignInPage :91 - Enter: 
+2022-05-18 00:05:763 INFO  SignInPage :95 - Click On: Sign in
+2022-05-18 00:05:594 INFO  SignInPage :103 - Verify: Contact us
+2022-05-18 00:05:214 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 00:05:776 INFO  SignInPage :86 - Enter: 
+2022-05-18 00:05:849 INFO  SignInPage :91 - Enter: 
+2022-05-18 00:05:922 INFO  SignInPage :95 - Click On: Sign in
+2022-05-18 00:05:04 INFO  SignInPage :103 - Verify: Contact us
+2022-05-18 01:05:906 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 01:05:734 INFO  SignInPage :86 - Enter: 
+2022-05-18 01:05:806 INFO  SignInPage :91 - Enter: 
+2022-05-18 01:05:884 INFO  SignInPage :95 - Click On: Sign in
+2022-05-18 01:05:928 INFO  SignInPage :103 - Verify: Sign out
+2022-05-18 01:05:775 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 01:05:308 INFO  SignInPage :90 - Enter: 
+2022-05-18 01:05:389 INFO  SignInPage :95 - Enter: 
+2022-05-18 01:05:464 INFO  SignInPage :99 - Click On: Sign in
+2022-05-18 01:05:434 INFO  SignInPage :111 - Click on: Sign out
+2022-05-18 01:05:487 INFO  SignInPage :107 - Verify: Contact us
+2022-05-18 14:05:222 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:947 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:867 INFO  SignInPage :90 - Enter: 
+2022-05-18 14:05:43 INFO  AccountPage :65 - Click On: Create an account
+2022-05-18 14:05:124 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:613 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:504 INFO  AccountPage :107 - Enter email: 
+2022-05-18 14:05:672 INFO  AccountPage :65 - Click On: Create an account
+2022-05-18 14:05:53 INFO  AccountPage :69 - Enter: 
+2022-05-18 14:05:223 INFO  AccountPage :73 - Enter: 
+2022-05-18 14:05:360 INFO  AccountPage :93 - Enter: 
+2022-05-18 14:05:533 INFO  AccountPage :77 - Enter: 
+2022-05-18 14:05:785 INFO  AccountPage :81 - Enter: 
+2022-05-18 14:05:853 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:94 INFO  AccountPage :107 - Enter email: 
+2022-05-18 14:05:261 INFO  AccountPage :65 - Click On: Create an account
+2022-05-18 14:05:334 INFO  AccountPage :69 - Enter: 
+2022-05-18 14:05:491 INFO  AccountPage :73 - Enter: 
+2022-05-18 14:05:655 INFO  AccountPage :93 - Enter: 
+2022-05-18 14:05:812 INFO  AccountPage :77 - Enter: 
+2022-05-18 14:05:74 INFO  AccountPage :81 - Enter: 
+2022-05-18 14:05:392 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:293 INFO  AccountPage :107 - Enter email: 
+2022-05-18 14:05:475 INFO  AccountPage :65 - Click On: Create an account
+2022-05-18 14:05:398 INFO  AccountPage :69 - Enter: 
+2022-05-18 14:05:564 INFO  AccountPage :73 - Enter: 
+2022-05-18 14:05:708 INFO  AccountPage :93 - Enter: 
+2022-05-18 14:05:867 INFO  AccountPage :77 - Enter: 
+2022-05-18 14:05:116 INFO  AccountPage :81 - Enter: 
+2022-05-18 14:05:300 INFO  AccountPage :85 - Select State: -
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+US Virgin Islands
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+2022-05-18 14:05:521 INFO  AccountPage :97 - Enter: 
+2022-05-18 14:05:674 INFO  AccountPage :97 - Enter: 
+2022-05-18 14:05:53 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:82 INFO  AccountPage :107 - Enter email: 
+2022-05-18 14:05:236 INFO  AccountPage :65 - Click On: Create an account
+2022-05-18 14:05:240 INFO  AccountPage :69 - Enter: 
+2022-05-18 14:05:416 INFO  AccountPage :73 - Enter: 
+2022-05-18 14:05:562 INFO  AccountPage :93 - Enter: 
+2022-05-18 14:05:723 INFO  AccountPage :77 - Enter: 
+2022-05-18 14:05:981 INFO  AccountPage :81 - Enter: 
+2022-05-18 14:05:161 INFO  AccountPage :85 - Select State: -
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+US Virgin Islands
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+2022-05-18 14:05:363 INFO  AccountPage :97 - Enter: 
+2022-05-18 14:05:537 INFO  AccountPage :89 - Enter: 
+2022-05-18 14:05:623 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:162 INFO  AccountPage :111 - Enter email: 
+2022-05-18 14:05:323 INFO  AccountPage :69 - Click On: Create an account
+2022-05-18 14:05:265 INFO  AccountPage :73 - Enter: 
+2022-05-18 14:05:425 INFO  AccountPage :77 - Enter: 
+2022-05-18 14:05:563 INFO  AccountPage :97 - Enter: 
+2022-05-18 14:05:734 INFO  AccountPage :81 - Enter: 
+2022-05-18 14:05:995 INFO  AccountPage :85 - Enter: 
+2022-05-18 14:05:178 INFO  AccountPage :89 - Select State: -
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+US Virgin Islands
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+2022-05-18 14:05:349 INFO  AccountPage :101 - Enter: 
+2022-05-18 14:05:500 INFO  AccountPage :93 - Enter: 
+2022-05-18 14:05:665 INFO  AccountPage :115 - Click On: Register
+2022-05-18 14:05:793 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:751 INFO  AccountPage :111 - Enter email: 
+2022-05-18 14:05:914 INFO  AccountPage :69 - Click On: Create an account
+2022-05-18 14:05:183 INFO  AccountPage :73 - Enter: 
+2022-05-18 14:05:343 INFO  AccountPage :77 - Enter: 
+2022-05-18 14:05:514 INFO  AccountPage :97 - Enter: 
+2022-05-18 14:05:663 INFO  AccountPage :81 - Enter: 
+2022-05-18 14:05:911 INFO  AccountPage :85 - Enter: 
+2022-05-18 14:05:97 INFO  AccountPage :89 - Select State: -
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+US Virgin Islands
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+2022-05-18 14:05:271 INFO  AccountPage :101 - Enter: 
+2022-05-18 14:05:423 INFO  AccountPage :93 - Enter: 
+2022-05-18 14:05:595 INFO  AccountPage :115 - Click On: Register
+2022-05-18 14:05:451 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 14:05:691 INFO  AccountPage :111 - Enter email: 
+2022-05-18 14:05:869 INFO  AccountPage :69 - Click On: Create an account
+2022-05-18 14:05:319 INFO  AccountPage :73 - Enter: 
+2022-05-18 14:05:479 INFO  AccountPage :77 - Enter: 
+2022-05-18 14:05:613 INFO  AccountPage :97 - Enter: 
+2022-05-18 14:05:762 INFO  AccountPage :81 - Enter: 
+2022-05-18 14:05:05 INFO  AccountPage :85 - Enter: 
+2022-05-18 14:05:183 INFO  AccountPage :89 - Select State: -
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+US Virgin Islands
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+2022-05-18 14:05:359 INFO  AccountPage :101 - Enter: 
+2022-05-18 14:05:520 INFO  AccountPage :93 - Enter: 
+2022-05-18 14:05:694 INFO  AccountPage :115 - Click On: Register
+2022-05-18 14:05:463 INFO  AccountPage :105 - Verify: My account
+2022-05-18 15:05:930 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 15:05:961 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 15:05:747 INFO  WomanCategoryPage :27 - Click on: WOMEN
+2022-05-18 15:05:51 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 15:05:855 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 15:05:833 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 15:05:666 INFO  WomanCategoryPage :27 - Click on: Women
+2022-05-18 15:05:806 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 15:05:371 INFO  WomanCategoryPage :28 - Click on: WOMEN
+2022-05-18 16:05:700 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 16:05:371 INFO  WomanCategoryPage :27 - Click on: WOMEN
+2022-05-18 16:05:386 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 16:05:913 INFO  WomanCategoryPage :39 - Click on: WOMEN
+2022-05-18 16:05:636 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 16:05:282 INFO  WomanCategoryPage :39 - Click on: WOMEN
+2022-05-18 16:05:18 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 16:05:951 INFO  WomanCategoryPage :39 - Click on: WOMEN
+2022-05-18 16:05:430 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 16:05:656 INFO  WomanCategoryPage :39 - Click on: WOMEN
+2022-05-18 16:05:606 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 16:05:262 INFO  WomanCategoryPage :39 - Click on: WOMEN
+2022-05-18 16:05:661 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 16:05:463 INFO  WomanCategoryPage :42 - Click on: WOMEN
+2022-05-18 20:05:293 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 20:05:576 INFO  WomanCategoryPage :42 - Click on: WOMEN
+2022-05-18 20:05:569 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 20:05:671 INFO  WomanCategoryPage :60 - Click On: WOMEN
+2022-05-18 20:05:56 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 20:05:157 INFO  WomanCategoryPage :60 - Click On: WOMEN
+2022-05-18 20:05:309 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 20:05:554 INFO  WomanCategoryPage :60 - Click On: WOMEN
+2022-05-18 20:05:97 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 20:05:946 INFO  WomanCategoryPage :60 - Click On: WOMEN
+2022-05-18 20:05:177 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 20:05:593 INFO  WomanCategoryPage :60 - Click On: WOMEN
+2022-05-18 22:05:362 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:296 INFO  WomanCategoryPage :57 - Click On: WOMEN
+2022-05-18 22:05:354 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:143 INFO  WomanCategoryPage :57 - Click On: WOMEN
+2022-05-18 22:05:241 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-18 22:05:776 INFO  WomanCategoryPage :61 - Click On: WOMEN
+2022-05-19 00:05:712 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 00:05:252 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 00:05:175 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 00:05:284 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 00:05:359 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 00:05:408 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (d096c8452921aabfca99e3857740980a)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 00:05:637 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 00:05:563 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 00:05:268 INFO  WomanCategoryPage :87 - selecting product : Printed Dress
+2022-05-19 00:05:357 INFO  WomanCategoryPage :97 - Select quantity :3
+2022-05-19 00:05:425 INFO  WomanCategoryPage :102 - select size : L
+2022-05-19 00:05:475 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (b03099da918c18dbd92685a0a5622e9b)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 00:05:636 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 00:05:394 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 00:05:568 INFO  WomanCategoryPage :87 - selecting product : Printed Chiffon Dress
+2022-05-19 00:05:653 INFO  WomanCategoryPage :97 - Select quantity :4
+2022-05-19 00:05:688 INFO  WomanCategoryPage :102 - select size : S
+2022-05-19 00:05:735 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (019502c25010fb114ed5c9408be180bb)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 00:05:909 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 00:05:780 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:320 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:732 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:671 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 01:05:784 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 01:05:862 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 01:05:921 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (3379257c161a4487ed86b71a7549b742)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:158 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:234 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:873 INFO  WomanCategoryPage :87 - selecting product : Printed Dress
+2022-05-19 01:05:960 INFO  WomanCategoryPage :97 - Select quantity :3
+2022-05-19 01:05:26 INFO  WomanCategoryPage :102 - select size : L
+2022-05-19 01:05:72 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (8a7125f5411b9c9115fc6bce8198d727)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:265 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:590 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:631 INFO  WomanCategoryPage :87 - selecting product : Printed Chiffon Dress
+2022-05-19 01:05:733 INFO  WomanCategoryPage :97 - Select quantity :4
+2022-05-19 01:05:773 INFO  WomanCategoryPage :102 - select size : S
+2022-05-19 01:05:821 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (447c4609c05230b8acb2f1abd44264f5)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:04 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:689 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:786 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:90 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:38 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 01:05:133 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 01:05:209 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 01:05:258 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (c41c59738266dee91893b1d1a477b32e)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:274 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (c41c59738266dee91893b1d1a477b32e)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:479 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:64 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:515 INFO  WomanCategoryPage :87 - selecting product : Printed Dress
+2022-05-19 01:05:608 INFO  WomanCategoryPage :97 - Select quantity :3
+2022-05-19 01:05:677 INFO  WomanCategoryPage :102 - select size : L
+2022-05-19 01:05:732 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (9bcd4d227fab47cc3ec9d84e4befed3f)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:750 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (9bcd4d227fab47cc3ec9d84e4befed3f)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:944 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:268 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:768 INFO  WomanCategoryPage :87 - selecting product : Printed Chiffon Dress
+2022-05-19 01:05:856 INFO  WomanCategoryPage :97 - Select quantity :4
+2022-05-19 01:05:894 INFO  WomanCategoryPage :102 - select size : S
+2022-05-19 01:05:940 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (1f51aaeaa6c2e123811b9df173a79da3)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:955 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (1f51aaeaa6c2e123811b9df173a79da3)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:160 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:352 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:559 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:852 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:653 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 01:05:754 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 01:05:833 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 01:05:877 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (05e0f1fa1445565f1f00fc07e2d4e515)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:892 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (05e0f1fa1445565f1f00fc07e2d4e515)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:108 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:983 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:165 INFO  WomanCategoryPage :87 - selecting product : Printed Dress
+2022-05-19 01:05:254 INFO  WomanCategoryPage :97 - Select quantity :3
+2022-05-19 01:05:316 INFO  WomanCategoryPage :102 - select size : L
+2022-05-19 01:05:366 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (1503e19b909465dfe0c1b8ce2facef6e)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:382 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (1503e19b909465dfe0c1b8ce2facef6e)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:578 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:856 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:889 INFO  WomanCategoryPage :87 - selecting product : Printed Chiffon Dress
+2022-05-19 01:05:977 INFO  WomanCategoryPage :97 - Select quantity :4
+2022-05-19 01:05:09 INFO  WomanCategoryPage :102 - select size : S
+2022-05-19 01:05:56 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (3e26cacd7fda2956673f3fcd5db95659)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:70 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (3e26cacd7fda2956673f3fcd5db95659)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:270 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:622 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:877 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:250 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:91 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 01:05:193 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 01:05:268 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 01:05:318 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (73f2bca7dbbbeb6dc0f2a6585bd144da)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:334 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (73f2bca7dbbbeb6dc0f2a6585bd144da)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:91 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (73f2bca7dbbbeb6dc0f2a6585bd144da)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:103 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:988 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:285 INFO  WomanCategoryPage :87 - selecting product : Printed Dress
+2022-05-19 01:05:374 INFO  WomanCategoryPage :97 - Select quantity :3
+2022-05-19 01:05:437 INFO  WomanCategoryPage :102 - select size : L
+2022-05-19 01:05:486 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (f5ad29c7a2268110580e82586438ce55)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:500 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (f5ad29c7a2268110580e82586438ce55)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:673 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (f5ad29c7a2268110580e82586438ce55)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:689 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:927 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:458 INFO  WomanCategoryPage :87 - selecting product : Printed Chiffon Dress
+2022-05-19 01:05:551 INFO  WomanCategoryPage :97 - Select quantity :4
+2022-05-19 01:05:580 INFO  WomanCategoryPage :102 - select size : S
+2022-05-19 01:05:626 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (c14db26de5a163c749004ccfccfdc33f)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:638 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (c14db26de5a163c749004ccfccfdc33f)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:368 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (c14db26de5a163c749004ccfccfdc33f)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:402 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:09 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:732 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:421 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:846 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 01:05:938 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 01:05:13 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 01:05:58 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (959e68862fbfc417bccc3010e12d7986)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:74 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (959e68862fbfc417bccc3010e12d7986)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:250 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (959e68862fbfc417bccc3010e12d7986)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:311 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:316 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:448 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 01:05:541 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 01:05:616 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 01:05:666 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (320e66cf146b67a03882d8cec79f637c)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:682 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (320e66cf146b67a03882d8cec79f637c)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:498 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (320e66cf146b67a03882d8cec79f637c)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:523 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:969 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:172 INFO  WomanCategoryPage :87 - selecting product : Printed Dress
+2022-05-19 01:05:260 INFO  WomanCategoryPage :97 - Select quantity :3
+2022-05-19 01:05:335 INFO  WomanCategoryPage :102 - select size : L
+2022-05-19 01:05:386 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (d9a60248f8eccc46f32e1b9e59b6ecdf)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:403 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (d9a60248f8eccc46f32e1b9e59b6ecdf)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:579 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (d9a60248f8eccc46f32e1b9e59b6ecdf)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:594 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:849 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:420 INFO  WomanCategoryPage :87 - selecting product : Printed Chiffon Dress
+2022-05-19 01:05:506 INFO  WomanCategoryPage :97 - Select quantity :4
+2022-05-19 01:05:541 INFO  WomanCategoryPage :102 - select size : S
+2022-05-19 01:05:594 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (57602c97f99649f546edc63406ebefbd)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:607 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (57602c97f99649f546edc63406ebefbd)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:453 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (57602c97f99649f546edc63406ebefbd)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:481 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:461 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:17 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:675 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:366 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 01:05:467 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 01:05:544 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 01:05:600 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (dac227d87234b6be7cf20a17cf70445d)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:617 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (dac227d87234b6be7cf20a17cf70445d)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:319 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (dac227d87234b6be7cf20a17cf70445d)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:336 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:652 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:664 INFO  WomanCategoryPage :87 - selecting product : Printed Dress
+2022-05-19 01:05:752 INFO  WomanCategoryPage :97 - Select quantity :3
+2022-05-19 01:05:816 INFO  WomanCategoryPage :102 - select size : L
+2022-05-19 01:05:866 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (783a099cfa8b194e6e4a0f1c0f2aa22e)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:883 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (783a099cfa8b194e6e4a0f1c0f2aa22e)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:935 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (783a099cfa8b194e6e4a0f1c0f2aa22e)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:953 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:423 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:981 INFO  WomanCategoryPage :87 - selecting product : Printed Chiffon Dress
+2022-05-19 01:05:65 INFO  WomanCategoryPage :97 - Select quantity :4
+2022-05-19 01:05:98 INFO  WomanCategoryPage :102 - select size : S
+2022-05-19 01:05:143 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (fc0cdbc574a1163ee080f385369fea21)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:155 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (fc0cdbc574a1163ee080f385369fea21)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:144 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (fc0cdbc574a1163ee080f385369fea21)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:172 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 01:05:236 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 01:05:458 INFO  WomanCategoryPage :87 - selecting product : Printed Summer Dress
+2022-05-19 01:05:543 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 01:05:628 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 01:05:678 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (5ed45b4eed39de77753ab217514954cc)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 01:05:692 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (5ed45b4eed39de77753ab217514954cc)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:371 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (5ed45b4eed39de77753ab217514954cc)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 01:05:851 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:881 INFO  SignInPage :80 - Verify: AUTHENTICATION
+2022-05-19 02:05:910 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:344 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:400 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:472 INFO  SignInPage :99 - Click On: Sign in
+2022-05-19 02:05:469 INFO  SignInPage :103 - Verify: There is 1 error
+2022-05-19 02:05:491 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:90 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:158 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:218 INFO  SignInPage :99 - Click On: Sign in
+2022-05-19 02:05:48 INFO  SignInPage :103 - Verify: There is 1 error
+2022-05-19 02:05:67 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:632 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:702 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:779 INFO  SignInPage :99 - Click On: Sign in
+2022-05-19 02:05:840 INFO  SignInPage :103 - Verify: There is 1 error
+2022-05-19 02:05:860 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:404 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:476 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:540 INFO  SignInPage :99 - Click On: Sign in
+2022-05-19 02:05:103 INFO  SignInPage :103 - Verify: There is 1 error
+2022-05-19 02:05:120 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:26 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:107 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:187 INFO  SignInPage :99 - Click On: Sign in
+2022-05-19 02:05:948 INFO  SignInPage :107 - Verify: Sign out
+2022-05-19 02:05:969 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:922 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:991 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:55 INFO  SignInPage :99 - Click On: Sign in
+2022-05-19 02:05:895 INFO  SignInPage :111 - Click on: Sign out
+2022-05-19 02:05:454 INFO  SignInPage :107 - Verify: Contact us
+2022-05-19 02:05:471 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:751 INFO  AccountPage :111 - Enter email: 
+2022-05-19 02:05:833 INFO  AccountPage :69 - Click On: Create an account
+2022-05-19 02:05:793 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:455 INFO  SignInPage :85 - Verify: AUTHENTICATION
+2022-05-19 02:05:488 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:779 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:835 INFO  SignInPage :100 - Enter: 
+2022-05-19 02:05:901 INFO  SignInPage :104 - Click On: Sign in
+2022-05-19 02:05:167 INFO  SignInPage :108 - Verify: There is 1 error
+2022-05-19 02:05:190 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:64 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:137 INFO  SignInPage :100 - Enter: 
+2022-05-19 02:05:191 INFO  SignInPage :104 - Click On: Sign in
+2022-05-19 02:05:36 INFO  SignInPage :108 - Verify: There is 1 error
+2022-05-19 02:05:52 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:256 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:324 INFO  SignInPage :100 - Enter: 
+2022-05-19 02:05:384 INFO  SignInPage :104 - Click On: Sign in
+2022-05-19 02:05:290 INFO  SignInPage :108 - Verify: There is 1 error
+2022-05-19 02:05:308 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:15 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:87 INFO  SignInPage :100 - Enter: 
+2022-05-19 02:05:153 INFO  SignInPage :104 - Click On: Sign in
+2022-05-19 02:05:959 INFO  SignInPage :108 - Verify: There is 1 error
+2022-05-19 02:05:975 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:331 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:409 INFO  SignInPage :100 - Enter: 
+2022-05-19 02:05:480 INFO  SignInPage :104 - Click On: Sign in
+2022-05-19 02:05:146 INFO  SignInPage :112 - Verify: Sign out
+2022-05-19 02:05:168 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:560 INFO  SignInPage :95 - Enter: 
+2022-05-19 02:05:639 INFO  SignInPage :100 - Enter: 
+2022-05-19 02:05:711 INFO  SignInPage :104 - Click On: Sign in
+2022-05-19 02:05:91 INFO  SignInPage :116 - Click on: Sign out
+2022-05-19 02:05:39 INFO  SignInPage :112 - Verify: Contact us
+2022-05-19 02:05:58 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:12 INFO  SignInPage :62 - enter email id : [[ChromeDriver: chrome on WINDOWS (6f3d115bc8324832206d3cefbbd8e402)] -> xpath: //input[@id='email']]
+2022-05-19 02:05:89 INFO  AccountPage :69 - Click On: Create an account
+2022-05-19 02:05:392 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:868 INFO  SignInPage :62 - enter email id : [[ChromeDriver: chrome on WINDOWS (5cd8c21ed40a770bdb23ba7a50484e40)] -> xpath: //input[@id='email']]
+2022-05-19 02:05:949 INFO  AccountPage :69 - Click On: Create an account
+2022-05-19 02:05:742 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:199 INFO  SignInPage :62 - enter email id : [[ChromeDriver: chrome on WINDOWS (141758476da3309a2b6fc8e695831322)] -> xpath: //input[@id='email']]
+2022-05-19 02:05:282 INFO  AccountPage :69 - Click On: Create an account
+2022-05-19 02:05:104 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:248 INFO  SignInPage :62 - enter email id : [[ChromeDriver: chrome on WINDOWS (c351e7f4e91525e3555470bd745ac98a)] -> xpath: //input[@id='email']]
+2022-05-19 02:05:332 INFO  AccountPage :69 - Click On: Create an account
+2022-05-19 02:05:634 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:343 INFO  AccountPage :125 - enter email id : [[ChromeDriver: chrome on WINDOWS (bbddba1f555929bf54afb9fcbed328b1)] -> xpath: //input[@id='email_create']]
+2022-05-19 02:05:418 INFO  AccountPage :75 - Click On: Create an account
+2022-05-19 02:05:729 INFO  AccountPage :79 - Enter: 
+2022-05-19 02:05:814 INFO  AccountPage :83 - Enter: 
+2022-05-19 02:05:884 INFO  AccountPage :103 - Enter: 
+2022-05-19 02:05:971 INFO  AccountPage :87 - Enter: 
+2022-05-19 02:05:49 INFO  AccountPage :91 - Enter: 
+2022-05-19 02:05:116 INFO  AccountPage :95 - Select State: 
+2022-05-19 02:05:413 INFO  AccountPage :107 - Enter: 
+2022-05-19 02:05:491 INFO  AccountPage :99 - Enter: 
+2022-05-19 02:05:573 INFO  AccountPage :121 - Click On: Register
+2022-05-19 02:05:240 INFO  AccountPage :111 - Verify: My account
+2022-05-19 02:05:789 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:437 INFO  SignInPage :75 - Verify: AUTHENTICATION
+2022-05-19 02:05:463 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:887 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:944 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:10 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:974 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:990 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:494 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:569 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:639 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:672 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:688 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:903 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:976 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:38 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:978 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:994 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:280 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:345 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:419 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:758 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:778 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:823 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:893 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:964 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:332 INFO  SignInPage :102 - Verify: Sign out
+2022-05-19 02:05:347 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:681 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:755 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:827 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:41 INFO  SignInPage :106 - Click on: Sign out
+2022-05-19 02:05:590 INFO  SignInPage :102 - Verify: Contact us
+2022-05-19 02:05:621 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:551 INFO  SignInPage :75 - Verify: AUTHENTICATION
+2022-05-19 02:05:580 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:848 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:899 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:966 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:806 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:830 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:251 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:320 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:377 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:328 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:350 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:447 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:511 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:581 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:485 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:500 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:58 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:129 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:198 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:372 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:387 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:371 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:448 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:529 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:126 INFO  SignInPage :102 - Verify: Sign out
+2022-05-19 02:05:144 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:424 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:499 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:566 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:34 INFO  SignInPage :106 - Click on: Sign out
+2022-05-19 02:05:532 INFO  SignInPage :102 - Verify: Contact us
+2022-05-19 02:05:551 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:819 INFO  AccountPage :125 - enter email id : [[ChromeDriver: chrome on WINDOWS (a78b794a87c6db1241283adaee1fcf71)] -> xpath: //input[@id='email_create']]
+2022-05-19 02:05:903 INFO  AccountPage :75 - Click On: Create an account
+2022-05-19 02:05:205 INFO  AccountPage :79 - Enter: 
+2022-05-19 02:05:280 INFO  AccountPage :83 - Enter: 
+2022-05-19 02:05:349 INFO  AccountPage :103 - Enter: 
+2022-05-19 02:05:414 INFO  AccountPage :87 - Enter: 
+2022-05-19 02:05:489 INFO  AccountPage :91 - Enter: 
+2022-05-19 02:05:559 INFO  AccountPage :95 - Select State: 
+2022-05-19 02:05:846 INFO  AccountPage :107 - Enter: 
+2022-05-19 02:05:922 INFO  AccountPage :99 - Enter: 
+2022-05-19 02:05:03 INFO  AccountPage :121 - Click On: Register
+2022-05-19 02:05:348 INFO  AccountPage :111 - Verify: My account
+2022-05-19 02:05:89 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:271 INFO  SignInPage :75 - Verify: AUTHENTICATION
+2022-05-19 02:05:299 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:613 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:672 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:744 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:550 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:569 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:978 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:51 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:108 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:820 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:837 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:985 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:56 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:124 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:893 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:909 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:867 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:937 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:999 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:791 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:809 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:326 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:399 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:475 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:176 INFO  SignInPage :102 - Verify: Sign out
+2022-05-19 02:05:191 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:330 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:408 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:489 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:761 INFO  SignInPage :106 - Click on: Sign out
+2022-05-19 02:05:372 INFO  SignInPage :102 - Verify: Contact us
+2022-05-19 02:05:386 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:445 INFO  AccountPage :125 - enter email id : [[ChromeDriver: chrome on WINDOWS (3c3c5490999c7db1b03064e6ab900abc)] -> xpath: //input[@id='email_create']]
+2022-05-19 02:05:533 INFO  AccountPage :75 - Click On: Create an account
+2022-05-19 02:05:774 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:760 INFO  WomanCategoryPage :65 - Click on: WOMEN
+2022-05-19 02:05:527 INFO  WomanCategoryPage :70 - Verify: WOMEN
+2022-05-19 02:05:543 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:375 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 02:05:331 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 02:05:421 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 02:05:489 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 02:05:563 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (ba110e6d74faf174179edf1d1fac25f7)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 02:05:576 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (ba110e6d74faf174179edf1d1fac25f7)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:63 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (ba110e6d74faf174179edf1d1fac25f7)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:74 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:804 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 02:05:362 INFO  WomanCategoryPage :87 - selecting product : Printed Dress
+2022-05-19 02:05:452 INFO  WomanCategoryPage :97 - Select quantity :3
+2022-05-19 02:05:514 INFO  WomanCategoryPage :102 - select size : L
+2022-05-19 02:05:560 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (ca204c8462b664584e1e6f50f983fd52)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 02:05:573 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (ca204c8462b664584e1e6f50f983fd52)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:173 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (ca204c8462b664584e1e6f50f983fd52)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:187 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:146 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 02:05:427 INFO  WomanCategoryPage :87 - selecting product : Printed Chiffon Dress
+2022-05-19 02:05:514 INFO  WomanCategoryPage :97 - Select quantity :4
+2022-05-19 02:05:544 INFO  WomanCategoryPage :102 - select size : S
+2022-05-19 02:05:593 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (3af782c7ab8e086868ff3aca3ac77e8f)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 02:05:605 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (3af782c7ab8e086868ff3aca3ac77e8f)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:364 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (3af782c7ab8e086868ff3aca3ac77e8f)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:372 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:416 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 02:05:497 INFO  WomanCategoryPage :87 - selecting product : Printed Summer Dress
+2022-05-19 02:05:588 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 02:05:652 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 02:05:701 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (c263965fd7a635a47b320c0087c6af01)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 02:05:713 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (c263965fd7a635a47b320c0087c6af01)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:336 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (c263965fd7a635a47b320c0087c6af01)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:957 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:696 INFO  AccountPage :125 - enter email id : [[ChromeDriver: chrome on WINDOWS (33b395d320f112628c2a4dfbce4ba98a)] -> xpath: //input[@id='email_create']]
+2022-05-19 02:05:788 INFO  AccountPage :75 - Click On: Create an account
+2022-05-19 02:05:278 INFO  AccountPage :79 - Enter: 
+2022-05-19 02:05:369 INFO  AccountPage :83 - Enter: 
+2022-05-19 02:05:439 INFO  AccountPage :103 - Enter: 
+2022-05-19 02:05:528 INFO  AccountPage :87 - Enter: 
+2022-05-19 02:05:632 INFO  AccountPage :91 - Enter: 
+2022-05-19 02:05:706 INFO  AccountPage :95 - Select State: 
+2022-05-19 02:05:968 INFO  AccountPage :107 - Enter: 
+2022-05-19 02:05:34 INFO  AccountPage :99 - Enter: 
+2022-05-19 02:05:109 INFO  AccountPage :121 - Click On: Register
+2022-05-19 02:05:97 INFO  AccountPage :111 - Verify: My account
+2022-05-19 02:05:67 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:28 INFO  SignInPage :75 - Verify: AUTHENTICATION
+2022-05-19 02:05:53 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:693 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:755 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:823 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:581 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:600 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:197 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:276 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:337 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:640 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:658 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:151 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:209 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:280 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:643 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:662 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:85 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:154 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:217 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:14 INFO  SignInPage :98 - Verify: There is 1 error
+2022-05-19 02:05:28 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:761 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:837 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:910 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:571 INFO  SignInPage :102 - Verify: Sign out
+2022-05-19 02:05:588 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:560 INFO  SignInPage :85 - Enter: 
+2022-05-19 02:05:641 INFO  SignInPage :90 - Enter: 
+2022-05-19 02:05:725 INFO  SignInPage :94 - Click On: Sign in
+2022-05-19 02:05:392 INFO  SignInPage :106 - Click on: Sign out
+2022-05-19 02:05:727 INFO  SignInPage :102 - Verify: Contact us
+2022-05-19 02:05:742 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:94 INFO  AccountPage :125 - enter email id : [[ChromeDriver: chrome on WINDOWS (42ef6294683489abc1a3a89821130d7c)] -> xpath: //input[@id='email_create']]
+2022-05-19 02:05:170 INFO  AccountPage :75 - Click On: Create an account
+2022-05-19 02:05:441 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:530 INFO  WomanCategoryPage :65 - Click on: WOMEN
+2022-05-19 02:05:587 INFO  WomanCategoryPage :70 - Verify: WOMEN
+2022-05-19 02:05:602 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:695 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 02:05:794 INFO  WomanCategoryPage :87 - selecting product : Blouse
+2022-05-19 02:05:886 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 02:05:960 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 02:05:12 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (953c1398440113b022272ec8f2100f9e)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 02:05:28 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (953c1398440113b022272ec8f2100f9e)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:997 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (953c1398440113b022272ec8f2100f9e)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:11 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:831 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 02:05:227 INFO  WomanCategoryPage :87 - selecting product : Printed Dress
+2022-05-19 02:05:314 INFO  WomanCategoryPage :97 - Select quantity :3
+2022-05-19 02:05:388 INFO  WomanCategoryPage :102 - select size : L
+2022-05-19 02:05:437 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (c548f4be3374f31863ea80d85c1ec6ad)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 02:05:451 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (c548f4be3374f31863ea80d85c1ec6ad)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:738 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (c548f4be3374f31863ea80d85c1ec6ad)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:749 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:526 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 02:05:365 INFO  WomanCategoryPage :87 - selecting product : Printed Chiffon Dress
+2022-05-19 02:05:455 INFO  WomanCategoryPage :97 - Select quantity :4
+2022-05-19 02:05:489 INFO  WomanCategoryPage :102 - select size : S
+2022-05-19 02:05:536 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (74bbad653f29d67fc0de1afd4bfd54d9)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 02:05:549 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (74bbad653f29d67fc0de1afd4bfd54d9)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:240 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (74bbad653f29d67fc0de1afd4bfd54d9)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:249 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-19 02:05:292 INFO  WomanCategoryPage :77 - Click On: WOMEN
+2022-05-19 02:05:255 INFO  WomanCategoryPage :87 - selecting product : Printed Summer Dress
+2022-05-19 02:05:348 INFO  WomanCategoryPage :97 - Select quantity :2
+2022-05-19 02:05:532 INFO  WomanCategoryPage :102 - select size : M
+2022-05-19 02:05:579 INFO  WomanCategoryPage :125 - select Add to cart button :[[ChromeDriver: chrome on WINDOWS (d9bb8f37607e9251abcfdf6b25334b58)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-19 02:05:594 INFO  WomanCategoryPage :128 - product added successfully message : [[ChromeDriver: chrome on WINDOWS (d9bb8f37607e9251abcfdf6b25334b58)] -> xpath: //div[@class='clearfix']/div[1]/h2]
+2022-05-19 02:05:295 INFO  WomanCategoryPage :135 - Closing the popup message : [[ChromeDriver: chrome on WINDOWS (d9bb8f37607e9251abcfdf6b25334b58)] -> xpath: //div[@class='clearfix']/div[1]/h2]
